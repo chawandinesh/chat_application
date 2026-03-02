@@ -9,7 +9,7 @@
     "antd": "^3.23.2",
     "babel-plugin-import": "^1.12.1",
     "core-js": "^2.5.7",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "mattermost-redux": "^5.14.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
